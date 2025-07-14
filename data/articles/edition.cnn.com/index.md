@@ -1,91 +1,78 @@
+[
+
+Middle East conflict
+
+
+
+](https://edition.cnn.com/2025/07/13/middleeast/gaza-ceasefire-talks-stutter-dozens-killed-intl)
 
 [
 
-Where do Trump’s tariffs stand?
+Taiwan’s fishing industry
 
 
 
-](https://edition.cnn.com/business/tariffs-trump-timeline-dg)
-
-[
-
-Air India flight crash report
-
-
-
-](https://edition.cnn.com/2025/07/12/india/air-india-crash-questions-intl)
+](https://edition.cnn.com/2025/07/12/asia/taiwan-fishing-labor-abuse-intl-hnk)
 
 [
 
-Russia-North Korea relations
+London airport plane crash
 
 
 
-](https://edition.cnn.com/2025/07/11/asia/russia-north-korea-lavrov-ukraine-intl-hnk)
-
-[
-
-Unprecedented Wimbledon final victory
-
-
-
-](https://edition.cnn.com/sport/live-news/wimbledon-final-womens-25-07-12-spt)
+](https://edition.cnn.com/2025/07/13/europe/plane-crash-london-southend-airport-intl-latam)
 
 [
 
-Superman’s not-so-real canine
+South Asian women
 
 
 
-](https://edition.cnn.com/2025/07/12/entertainment/superman-krypto-dog)
+](https://edition.cnn.com/2025/07/13/business/south-asian-women-gold)
 
 [
 
-Party wigs
+Wimbledon men’s final
 
 
 
-](https://edition.cnn.com/2025/07/10/style/lisa-rinna-paris-couture-wigs)
+](https://edition.cnn.com/sport/live-news/wimbledon-final-mens-25-07-13-spt)
+
+[
+
+Parent-child interactions
+
+
+
+](https://edition.cnn.com/2025/07/13/health/parents-social-media-use-affects-kids-wellness)
+
+[
+
+New ‘Superman’ movie
+
+
+
+](https://edition.cnn.com/2025/07/13/business/superman-summer-box-office)
 
 [](https://edition.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25)
 
 [
 
-![A US Customs and Border Protection agent weighs a package of Fentanyl at the San Ysidro Port of Entry in San Ysidro, California on October 2, 2019.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1176407069.jpg?c=16x9&q=h_720,w_1280,c_fill)
-
-• Analysis Analysis
-
-Sandy Huffaker/AFP/Getty Images
+CNN
 
 
 
-](https://edition.cnn.com/2025/07/12/china/us-china-fentanyl-tariffs-intl-hnk)[
+](https://edition.cnn.com/2025/07/13/europe/ireland-tuam-mother-and-baby-home-excavation-intl)[
 
-Analysis The deadly drug that’s complicating US-China trade
+An Irish baby was discarded in a septic tank 80 years ago. Her sister won’t rest until she’s buried
 
 
 
-](https://edition.cnn.com/2025/07/12/china/us-china-fentanyl-tariffs-intl-hnk)
+](https://edition.cnn.com/2025/07/13/europe/ireland-tuam-mother-and-baby-home-excavation-intl)
 
 [
 
-EU announces delay to its trade countermeasures against United States until early August
-
-
-
-](https://edition.cnn.com/2025/07/13/business/us-eu-tariffs-august-delay)
-
-[
-
-Where do tariffs stand? Visualizing Trump’s global trade rollout
-
-
-
-](https://edition.cnn.com/business/tariffs-trump-timeline-dg)
-
-[
-
-![A young boy inspects the site of an Israeli strike that killed Palestinians gathered at a water distribution point, according to medics, in central Gaza on July 13.](https://media.cnn.com/api/v1/images/stellar/prod/2025-07-13t081156z-2082991493-rc2ilfa7ymuu-rtrmadp-3-israel-palestinians-gaza.JPG?c=16x9&q=h_438,w_780,c_fill)
+![A young boy inspects the site of an Israeli strike that killed Palestinians gathered at a water distribution point, according to medics, in central Gaza on July 13.](https://media.cnn.com/api/v1/images/stellar/prod/2025-07-13t081156z-2082991493-rc2ilfa7ymuu-rtrmadp-3-israel-palestinians-gaza.JPG?c=16x9&q=h_720,w_1280,c_fill)
 
 Stringer/Reuters
 
@@ -101,25 +88,59 @@ Children killed collecting water in Gaza, medical officials say, as ceasefire ta
 
 [
 
-## Excavation of mass grave of babies reveals shocking truths
+Battered but not beaten, Hamas embraces guerilla tactics with deadly force
 
-Show all
 
-](https://edition.cnn.com/2025/07/13/europe/ireland-tuam-mother-and-baby-home-excavation-intl)
+
+](https://edition.cnn.com/2025/07/12/middleeast/hamas-guerilla-tactics-gaza-attack-intl)
 
 [
 
-CNN
+## Trump offers public and private support for Bondi after MAGA fallout
+
+Show all
+
+](https://edition.cnn.com/2025/07/12/politics/bondi-epstein-investigation-trump)
+
+[
+
+![US President Donald Trump (2nd-L) gives a thumbs up to US Attorney General Pam Bondi (R) and her partner John Wakefield ahead of the FIFA Club World Cup 2025 final football match between England's Chelsea and France's Paris Saint-Germain at the MetLife Stadium in East Rutherford, New Jersey on July 13, 2025. (Photo by CHARLY TRIBALLEAU / AFP) (Photo by CHARLY TRIBALLEAU/AFP via Getty Images)          ](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224313205.jpg?c=16x9&q=h_720,w_1280,c_fill)
+
+Charly Triballeau/AFP/Getty Images
 
 
 
-](https://edition.cnn.com/2025/07/13/europe/ireland-tuam-mother-and-baby-home-excavation-intl)[
+](https://edition.cnn.com/2025/07/12/politics/bondi-epstein-investigation-trump)[
 
-Hundreds of infants’ bodies were discarded in a septic tank over decades at the Tuam institution in Ireland. Today, they’re one step closer to a dignified burial.
+US president appeared alongside his attorney general over the weekend as she faces scrutiny over her handling of the Epstein memo
 
 
 
-](https://edition.cnn.com/2025/07/13/europe/ireland-tuam-mother-and-baby-home-excavation-intl)
+](https://edition.cnn.com/2025/07/12/politics/bondi-epstein-investigation-trump)
+
+[
+
+Where do tariffs stand? Visualizing Trump’s global trade rollout
+
+
+
+](https://edition.cnn.com/business/tariffs-trump-timeline-dg)
+
+[
+
+Analysis The deadly drug that’s complicating US-China trade
+
+
+
+](https://edition.cnn.com/2025/07/12/china/us-china-fentanyl-tariffs-intl-hnk)
+
+[
+
+EU announces delay to its trade countermeasures against US until early August
+
+
+
+](https://edition.cnn.com/2025/07/13/business/us-eu-tariffs-august-delay)
 
 ![CNN_Headlines_International_logo.png](https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-international-logo.png?c=16x9&q=w_1280,c_fill)
 
@@ -137,17 +158,15 @@ Video Catch up on today’s global news
 
 [
 
-![Jannik Sinner, left, and Carlos Alcaraz will face off in Sunday's Wimbledon final.](https://media.cnn.com/api/v1/images/stellar/prod/20250711-wimby2.jpg?c=16x9&q=h_438,w_780,c_fill)
+![Italy's Jannik Sinner celebrates after beating Carlos Alcaraz of Spain to win the men's singles final at the Wimbledon Tennis Championships in London, Sunday, July 13, 2025. (AP Photo/Kin Cheung)](https://media.cnn.com/api/v1/images/stellar/prod/ap25194663860800.jpg?c=16x9&q=h_438,w_780,c_fill)
 
-• Live Updates Live Updates
-
-AFP/Getty Images, AP
+Kin Cheung/AP
 
 
 
 ](https://edition.cnn.com/sport/live-news/wimbledon-final-mens-25-07-13-spt)[
 
-Live Updates Carlos Alcaraz looks to three-peat at Wimbledon in a final against rival Jannik Sinner
+Wimbledon: Jannik Sinner beats Carlos Alcaraz to win first title
 
 
 
@@ -155,21 +174,35 @@ Live Updates Carlos Alcaraz looks to three-peat at Wimbledon in a final against 
 
 [
 
-![U2 rock star Bono<strong> </strong>has been a prominent activist in the global fight against HIV/AIDS, including working with the George W. Bush administration supporting programs like President’s Emergency Plan for AIDS Relief (PEPFAR).](https://media.cnn.com/api/v1/images/stellar/prod/rice-x-bono-split-live-aid.jpg?c=16x9&q=h_144,w_256,c_fill)
+![Superman 2025](https://media.cnn.com/api/v1/images/stellar/prod/screen-shot-2024-12-19-at-10-12-12-am.jpg?c=16x9&q=h_144,w_256,c_fill)
 
-• Video 4:01
-
-CNN
+Warner Bros.
 
 
 
-](https://edition.cnn.com/2025/07/13/world/video/u2-bono-condoleezza-rice-aids-hiv-promise-digvid)[
+](https://edition.cnn.com/2025/07/13/business/superman-summer-box-office)[
 
-Video Why Bono made Condoleezza Rice promise to help the global HIV/AIDS pandemic 4:01
+‘Superman’ leaps weekend box office in single bound
 
 
 
-](https://edition.cnn.com/2025/07/13/world/video/u2-bono-condoleezza-rice-aids-hiv-promise-digvid)
+](https://edition.cnn.com/2025/07/13/business/superman-summer-box-office)
+
+[
+
+![Chelsea players celebrate after winning the Club World Cup final soccer match against Paris Saint-Germain in East Rutherford, N.J., Sunday, July 13, 2025. (AP Photo/Frank Franklin II)](https://media.cnn.com/api/v1/images/stellar/prod/ap25194766524030.jpg?c=16x9&q=h_144,w_256,c_fill)
+
+Frank Franklin II/AP
+
+
+
+](https://edition.cnn.com/2025/07/13/sport/chelsea-psg-fifa-club-world-cup-final-spt)[
+
+Chelsea dominates PSG to win FIFA Club World Cup
+
+
+
+](https://edition.cnn.com/2025/07/13/sport/chelsea-psg-fifa-club-world-cup-final-spt)
 
 Ad Feedback
 
@@ -177,13 +210,31 @@ Ad Feedback
 
 [
 
-![CCTV footage shows the SBU officer walking down the stairs moments before he was shot in Kyiv, Ukraine, on July 10.](https://media.cnn.com/api/v1/images/stellar/prod/2025-07-11t000500z-1650613179-rc2njfaedrxd-rtrmadp-3-ukraine-crisis-sbu.jpg?c=16x9&q=h_438,w_780,c_fill)
+![LEXINGTON, KENTUCKY - JULY 13: Police assess the scene after a shooting at Richmond Road Baptist Church on July 13, 2025 in Lexington, Kentucky. Two people were killed and two others injured at the church after the shooter shot and injured a state trooper at the Blue Grass Airport before fleeing and eventually stopping at the Richmond Road Baptist Church. (Photo by Michael Swensen/Getty Images)](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224333405.jpg?c=16x9&q=h_438,w_780,c_fill)
 
-Ukrainska Pravda/Reuters
+• Breaking News Breaking News
+
+Michael Swensen/Getty Images
 
 
 
-](https://edition.cnn.com/2025/07/13/europe/ukraine-russia-sbu-assassination-intl)[
+](https://edition.cnn.com/2025/07/13/us/kentucky-shooting-lexington-church-ky)[
+
+Breaking News 2 dead, suspect killed at a Kentucky church after suspect shot a state trooper, police say
+
+
+
+](https://edition.cnn.com/2025/07/13/us/kentucky-shooting-lexington-church-ky)
+
+[
+
+Small plane crashes at London Southend Airport
+
+
+
+](https://edition.cnn.com/2025/07/13/europe/plane-crash-london-southend-airport-intl-latam)
+
+[
 
 Ukraine says it killed Russian agents suspected of assassinating intelligence officer
 
@@ -193,39 +244,39 @@ Ukraine says it killed Russian agents suspected of assassinating intelligence of
 
 [
 
-California farmworker dies after falling from greenhouse roof during chaotic ICE raid
+Senators tout Russia sanctions bill as ‘sledgehammer’ for Trump to end war in Ukraine
 
 
 
-](https://edition.cnn.com/2025/07/13/us/farmworker-dies-california-immigration-raids-hnk)
-
-[
-
-FEMA search and rescue teams take days to reach Texas after flooding as agency faces overhaul
-
-
-
-](https://edition.cnn.com/2025/07/13/politics/fema-texas-flooding-search-rescue)
+](https://edition.cnn.com/2025/07/13/politics/russia-sanctions-bill-trump-senators-bipartisan)
 
 [
 
-Hamas’ deadly ambush against Israeli soldiers in Gaza shows it has undergone a transformation
+Video Why Bono made Condoleezza Rice promise to help the global HIV/AIDS pandemic 4:01
 
 
 
-](https://edition.cnn.com/2025/07/12/middleeast/hamas-guerilla-tactics-gaza-attack-intl)
-
-[
-
-Video Flames engulf tanker train in India’s Tamil Nadu 0:38
-
-
-
-](https://edition.cnn.com/2025/07/13/world/video/tanker-train-fire-india-tamil-nadu-digvid)
+](https://edition.cnn.com/2025/07/13/world/video/u2-bono-condoleezza-rice-aids-hiv-promise-digvid)
 
 [
 
-![The back of Air India flight 171 is pictured at the site after it crashed in a residential area near the airport in Ahmedabad on June 12, 2025. A London-bound passenger plane crashed in the Indian city of Ahmedabad on June 12 and all 242 people on board were believed killed, with the jet smashing into buildings housing doctors and their families.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219148016-20250712154822864.jpg?c=16x9&q=h_438,w_780,c_fill)
+![Firefighter Brendan McDonough embraces a mourner near the end of a candlelight vigil in Prescott, Ariz. on Tuesday, July 2, 2013. McDonough was the sole survivor of the 20-man Granite Mountain Hotshot Crew after an out-of-control blaze killed the 19 on Sunday near Yarnell, Ariz. (AP Photo/Julie Jacobson)](https://media.cnn.com/api/v1/images/stellar/prod/ap976767971765.jpg?c=16x9&q=h_438,w_780,c_fill)
+
+Julie Jacobson/AP
+
+
+
+](https://edition.cnn.com/2025/07/13/us/survivors-disasters-plane-crash-wildfire-sharks-cec)[
+
+These ‘miraculous survivors’ weathered plane crashes, shark attacks and other deadly disasters. They weren’t prepared for what came next
+
+
+
+](https://edition.cnn.com/2025/07/13/us/survivors-disasters-plane-crash-wildfire-sharks-cec)
+
+[
+
+![The back of Air India flight 171 is pictured at the site after it crashed in a residential area near the airport in Ahmedabad on June 12, 2025. A London-bound passenger plane crashed in the Indian city of Ahmedabad on June 12 and all 242 people on board were believed killed, with the jet smashing into buildings housing doctors and their families.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219148016-20250712154822864.jpg?c=16x9&q=h_144,w_256,c_fill)
 
 Sam Panthaky/AFP/Getty Images
 
@@ -241,99 +292,27 @@ We now know how Air India flight crashed. More questions remain
 
 [
 
-![Chef Ashley Fils-Aime, Vicheslav Komotopchyk and Vicheslav Komotopchyk discuss the brownies.](https://media.cnn.com/api/v1/images/stellar/prod/01-ashley-vicheslav-and-alpha-discussing-the-brownies.jpg?c=16x9&q=h_144,w_256,c_fill)
+![SHIGATSE, CHINA - JULY 09: Aerial view of rainbow appearing over Jiangzi Zongshan Castle after a rain on July 9, 2025 in Shigatse, Xizang Autonomous Region of China. (Photo by VCG/VCG via Getty Images)](https://media.cnn.com/api/v1/images/stellar/prod/17-18-gettyimages-2224406207.JPG?c=16x9&q=h_144,w_256,c_fill)
 
-Alaa Elassar/CNN
+• Gallery Gallery
 
-
-
-](https://edition.cnn.com/2025/07/13/us/ny-refugees-restaurant-workers)[
-
-It can be scary to be a refugee. New York’s famed culinary scene is teaching these newcomers to thrive
+VCG/Getty Images
 
 
 
-](https://edition.cnn.com/2025/07/13/us/ny-refugees-restaurant-workers)
+](https://edition.cnn.com/2025/07/10/world/gallery/photos-this-week-july-03-july-10)[
 
-[
-
-![Close-up-of-Magna-XXL-Roman-shoe-32.6cm-(c)-The-Vindolanda-Trust.jpg](https://media.cnn.com/api/v1/images/stellar/prod/close-up-of-magna-xxl-roman-shoe-32-6cm-c-the-vindolanda-trust.jpg?c=16x9&q=h_144,w_256,c_fill)
-
-The Vindolanda Trust
+Gallery ISS captures surreal shot of ‘lightning sprite.’ Rainbow shines over Tibet. The week in photos
 
 
 
-](https://edition.cnn.com/2025/07/12/science/giant-shoes-ancient-roman-fort-magna)[
-
-Giant shoes unearthed in northern England spark questions about who guarded a fortress at the Roman Empire’s edge
-
-
-
-](https://edition.cnn.com/2025/07/12/science/giant-shoes-ancient-roman-fort-magna)
+](https://edition.cnn.com/2025/07/10/world/gallery/photos-this-week-july-03-july-10)
 
 Ad Feedback
 
 [
 
-![Rosie O'Donnell and President Donald Trump.](https://media.cnn.com/api/v1/images/stellar/prod/20250712-rosie-odonnell-donald-trump-split.jpg?c=16x9&q=h_144,w_256,c_fill)
-
-Getty Images
-
-
-
-](https://edition.cnn.com/2025/07/12/politics/rosie-odonnell-donald-trump)[
-
-Trump says he’s considering revoking Rosie O’Donnell’s citizenship
-
-Jul 12, 2025
-
-
-
-](https://edition.cnn.com/2025/07/12/politics/rosie-odonnell-donald-trump)
-
-[
-
-![North Korean leader Kim Jong Un shakes hands with Russian Foreign Minister Sergei Lavrov during a meeting in Wonsan, North Korea July 12, 2025. Russian Foreign Ministry/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO RESALES. NO ARCHIVES. MANDATORY CREDIT.     TPX IMAGES OF THE DAY     ](https://media.cnn.com/api/v1/images/stellar/prod/2025-07-12t135825z-1901727685-rc2ykfa1kcy4-rtrmadp-3-northkorea-russia-lavrov-visit.jpg?c=16x9&q=h_144,w_256,c_fill)
-
-Russian Foreign Ministry/Reuters
-
-
-
-](https://edition.cnn.com/2025/07/11/asia/russia-north-korea-lavrov-ukraine-intl-hnk)[
-
-North Korea’s Kim Jong Un restates unconditional support for ‘all’ Russian actions in Ukraine
-
-Jul 13, 2025
-
-
-
-](https://edition.cnn.com/2025/07/11/asia/russia-north-korea-lavrov-ukraine-intl-hnk)
-
-[
-
-![Attorney General Pam Bondi attends a Cabinet meeting held by President Donald Trump at the White House in Washington, DC, on July 8.](https://media.cnn.com/api/v1/images/stellar/prod/ap25189610482708-1.jpg?c=16x9&q=h_144,w_256,c_fill)
-
-Evan Vucci/AP
-
-
-
-](https://edition.cnn.com/2025/07/12/politics/bondi-epstein-investigation-trump)[
-
-Trump defends Bondi amid MAGA fallout over her handling of Epstein investigation
-
-Jul 12, 2025
-
-
-
-](https://edition.cnn.com/2025/07/12/politics/bondi-epstein-investigation-trump)
-
-Ad Feedback
-
-[
-
-![Customs and Border Protection officers and California National Guard troops hold the line as protestors shine flashlights on them after Federal Immigration agents conducted a raid on Glass House Farms in Camarillo, California, on July 10, 2025. Federal immigration agentsbacked by CBP, Border Patrol units, National Guard troops, helicopters, and military style vehiclesraided Glass House Farms in Camarillo early July 10, 2025, targeting state licensed cannabis and other crop operations, detaining between a dozen and 100 farmworkers, and deploying smoke or tear gas canisters and rubber bullets to disperse a crowd of several hundred protesters on Laguna Road. (Photo by BLAKE FAGAN / AFP) (Photo by BLAKE FAGAN/AFP via Getty Images)          ](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2223875885.jpg?c=16x9&q=h_438,w_780,c_fill)
-
-• Analysis Analysis
+![Customs and Border Protection officers and California National Guard troops hold the line as protestors shine flashlights on them after Federal Immigration agents conducted a raid on Glass House Farms in Camarillo, California, on July 10, 2025. Federal immigration agentsbacked by CBP, Border Patrol units, National Guard troops, helicopters, and military style vehiclesraided Glass House Farms in Camarillo early July 10, 2025, targeting state licensed cannabis and other crop operations, detaining between a dozen and 100 farmworkers, and deploying smoke or tear gas canisters and rubber bullets to disperse a crowd of several hundred protesters on Laguna Road. (Photo by BLAKE FAGAN / AFP) (Photo by BLAKE FAGAN/AFP via Getty Images)          ](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2223875885.jpg?c=16x9&q=h_144,w_256,c_fill)
 
 Blake Fagan/AFP/Getty Images
 
@@ -343,41 +322,99 @@ Blake Fagan/AFP/Getty Images
 
 Analysis Trump’s mass deportation is backfiring
 
+Jul 13, 2025
+
 
 
 ](https://edition.cnn.com/2025/07/13/politics/deportations-backfiring-trump-analysis)
 
 [
 
-![Crosses hang on a wall with flood marks at Camp Mystic in the aftermath of deadly flooding in Kerr County on July 7, 2025.](https://media.cnn.com/api/v1/images/stellar/prod/2025-07-07t180226z-640853332-rc2rhfac9n2k-rtrmadp-3-usa-weather-texas-flooding.jpg?c=16x9&q=h_144,w_256,c_fill)
+At a conservative conference in Florida, Trump supporters share their views on the Epstein files fallout with CNN’s Donie O’Sullivan.
 
-Sergio Flores/Reuters
-
-
-
-](https://edition.cnn.com/2025/07/13/us/camp-mystic-flooding-texas)[
-
-Girls as young as 7 were startled awake by flooding that devastated their beloved Camp Mystic
+CNN/David von Blohn
 
 
 
-](https://edition.cnn.com/2025/07/13/us/camp-mystic-flooding-texas)
+](https://edition.cnn.com/2025/07/13/politics/video/maga-trump-supporters-jeffrey-epstein-turning-point-usa-digvid)[
+
+Video MAGA faithful weigh in on Epstein files debate 2:12
+
+Jul 13, 2025
+
+
+
+](https://edition.cnn.com/2025/07/13/politics/video/maga-trump-supporters-jeffrey-epstein-turning-point-usa-digvid)
 
 [
 
-![Lionel Messi celebrates after scoring his first goal on Saturday.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224835283.jpg?c=16x9&q=h_144,w_256,c_fill)
+![A visitor views a memorial wall for flood victims, Sunday, July 13, 2025, in Kerrville, Texas.](https://media.cnn.com/api/v1/images/stellar/prod/ap25194509727948.jpg?c=16x9&q=h_144,w_256,c_fill)
 
-Leonardo Fernandez/Getty Images
-
-
-
-](https://edition.cnn.com/2025/07/13/sport/lionel-messi-mls-record-breaking-streak-spt)[
-
-Lionel Messi extends MLS record-breaking streak, scoring two goals against Nashville SC
+Eric Gay/AP
 
 
 
-](https://edition.cnn.com/2025/07/13/sport/lionel-messi-mls-record-breaking-streak-spt)
+](https://edition.cnn.com/2025/07/13/weather/flash-flooding-texas-weather)[
+
+Evacuations ordered as flooding returns to central Texas
+
+Jul 13, 2025
+
+
+
+](https://edition.cnn.com/2025/07/13/weather/flash-flooding-texas-weather)
+
+[
+
+![Inside view of the new prison of Lyon-Corbas, near Lyon, southeastern France, April 2, 2009. The prison will open May 2009 and more than 500 prisoners will be transferred from old local jails.](https://media.cnn.com/api/v1/images/stellar/prod/2009-04-03t120000z-971157323-pm1e543089c01-rtrmadp-3-france-prison.JPG?c=16x9&q=h_144,w_256,c_fill)
+
+Robert Pratta/Reuters
+
+
+
+](https://edition.cnn.com/2025/07/13/europe/france-prison-escape-intl)[
+
+Prisoner in France escapes in his cellmate’s bag
+
+Jul 13, 2025
+
+
+
+](https://edition.cnn.com/2025/07/13/europe/france-prison-escape-intl)
+
+Ad Feedback
+
+[
+
+![Taiwan’s Donggang port is a hub for its distant-water fishing fleet.](https://media.cnn.com/api/v1/images/stellar/prod/tw-fishing-port-2.jpg?c=16x9&q=h_438,w_780,c_fill)
+
+Global Labor Justice
+
+
+
+](https://edition.cnn.com/2025/07/12/asia/taiwan-fishing-labor-abuse-intl-hnk)[
+
+Taiwan is held up as a bastion of liberal values. But migrant workers report abuse, injury and death in its fishing industry
+
+
+
+](https://edition.cnn.com/2025/07/12/asia/taiwan-fishing-labor-abuse-intl-hnk)
+
+[
+
+![Local Police and Guardia Civil officers during riots in Torre Pacheco, on July 12, 2025, in Torre Pacheco, Murcia (Spain). After a night of altercations, the Guardia Civil has arrested one person and five have been slightly injured. The events have triggered after the assault on an elderly man last July 9.](https://media.cnn.com/api/v1/images/stellar/prod/ap25194387222786.jpg?c=16x9&q=h_144,w_256,c_fill)
+
+Martín C./Europa Press/AP
+
+
+
+](https://edition.cnn.com/2025/07/13/europe/spain-migrants-far-right-clashes-intl)[
+
+Violent clashes erupt between far-right groups and migrants in Spanish town
+
+
+
+](https://edition.cnn.com/2025/07/13/europe/spain-migrants-far-right-clashes-intl)
 
 [
 
@@ -399,53 +436,19 @@ Video He ran from Cape Town to London to challenge racism 3:55
 
 [
 
-![SHIGATSE, CHINA - JULY 09: Aerial view of rainbow appearing over Jiangzi Zongshan Castle after a rain on July 9, 2025 in Shigatse, Xizang Autonomous Region of China. (Photo by VCG/VCG via Getty Images)](https://media.cnn.com/api/v1/images/stellar/prod/17-18-gettyimages-2224406207.JPG?c=16x9&q=h_438,w_780,c_fill)
+![Nigeria's President Muhammadu Buhari meets with Portuguese President Marcelo Rebelo de Sousa (not seen) in Belem Presidential Palace at the beginning of his State Visit to the country on June 30, 2022, in Lisbon, Portugal. Nigeria's President Muhammadu Buhari is on a two-day State Visit to Portugal at the invitation of the Portuguese President Marcelo Rebelo de Sousa.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1405993594.jpg?c=16x9&q=h_144,w_256,c_fill)
 
-• Gallery Gallery
-
-VCG/Getty Images
+Horacio Villalobos/Corbis/Getty Images
 
 
 
-](https://edition.cnn.com/2025/07/10/world/gallery/photos-this-week-july-03-july-10)[
+](https://edition.cnn.com/2025/07/13/africa/muhammadu-buhari-dies-at-age-82)[
 
-Gallery ISS captures surreal shot of ‘lightning sprite.’ Rainbow shines over Tibet. The week in photos
-
-
-
-](https://edition.cnn.com/2025/07/10/world/gallery/photos-this-week-july-03-july-10)
-
-[
-
-![Taiwan’s Donggang port is a hub for its distant-water fishing fleet.](https://media.cnn.com/api/v1/images/stellar/prod/tw-fishing-port-2.jpg?c=16x9&q=h_144,w_256,c_fill)
-
-Global Labor Justice
+Former Nigerian president Muhammadu Buhari dies at age 82
 
 
 
-](https://edition.cnn.com/2025/07/12/asia/taiwan-fishing-labor-abuse-intl-hnk)[
-
-Taiwan is held up as a bastion of liberal values. But migrant workers report abuse, injury and death in its fishing industry
-
-
-
-](https://edition.cnn.com/2025/07/12/asia/taiwan-fishing-labor-abuse-intl-hnk)
-
-[
-
-![Donald Trump is surrounded by US Secret Service agents at a campaign rally on July 13 in Butler, Pennsylvania.](https://media.cnn.com/api/v1/images/stellar/prod/ap24195803307155.jpg?c=16x9&q=h_144,w_256,c_fill)
-
-Evan Vucci/AP
-
-
-
-](https://edition.cnn.com/2025/07/13/politics/trump-butler-assassination-maga-change)[
-
-How the Trump assassination attempt changed the 2024 race and the MAGA movement
-
-
-
-](https://edition.cnn.com/2025/07/13/politics/trump-butler-assassination-maga-change)
+](https://edition.cnn.com/2025/07/13/africa/muhammadu-buhari-dies-at-age-82)
 
 [
 
@@ -465,35 +468,85 @@ South Asian women might be the winners of the gold rush
 
 [
 
-![Superman 2025](https://media.cnn.com/api/v1/images/stellar/prod/screen-shot-2024-12-19-at-10-42-58-am.png?c=16x9&q=h_144,w_256,c_fill)
+![A side view of an unrecognizable Caucasian mother using her smartphone while relaxing at home with her little child.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1481376980.jpg?c=16x9&q=h_144,w_256,c_fill)
 
-Warner Bros.
-
-
-
-](https://edition.cnn.com/2025/07/12/business/superman-box-office-opening)[
-
-‘Superman’ smashes box office expectations, soaring towards $130 million opening
+FreshSplash/E+/Getty Images
 
 
 
-](https://edition.cnn.com/2025/07/12/business/superman-box-office-opening)
+](https://edition.cnn.com/2025/07/13/health/parents-social-media-use-affects-kids-wellness)[
+
+Cell-phone use affects parent-child interactions, even when adults aren’t online
+
+
+
+](https://edition.cnn.com/2025/07/13/health/parents-social-media-use-affects-kids-wellness)
 
 [
 
-![Rep. Debbie Wasserman Schultz, left, Rep. Darren Soto, Rep. Jared Moskowitz, second from right, and Rep. Maxwell Frost, right, speak to the media before visiting "Alligator Alcatraz" at the Dade-Collier Training and Transition Airport in Ochopee, Florida, on Saturday.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224787479.jpg?c=16x9&q=h_144,w_256,c_fill)
+![With "Bee Home", users can select the size, height and style that suits their taste.](https://media.cnn.com/api/v1/images/stellar/prod/product-photography-1-space10-bee-home-web-photo-by-irina-boersma.jpg?c=16x9&q=h_144,w_256,c_fill)
 
-Joe Raedle/Getty Images
-
-
-
-](https://edition.cnn.com/2025/07/12/us/alligator-alcatraz-lawmaker-tour-conditions)[
-
-Lawmaker allowed into ‘Alligator Alcatraz’ says there are up to 32 detainees packed into a single cage
+Irina Boersma
 
 
 
-](https://edition.cnn.com/2025/07/12/us/alligator-alcatraz-lawmaker-tour-conditions)
+](https://edition.cnn.com/2025/07/11/style/saving-the-bees-design)[
+
+The bee population is in decline. These designers have a solution
+
+
+
+](https://edition.cnn.com/2025/07/11/style/saving-the-bees-design)
+
+[
+
+![Puerto Rican singer Bad Bunny performs onstage during the first show of his 30-date concert residency at the Coliseo de Puerto Rico in San Juan, Puerto Rico, on July 11, 2025. (Photo by Ricardo ARDUENGO / AFP) (Photo by RICARDO ARDUENGO/AFP via Getty Images)          ](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224056119.jpg?c=16x9&q=h_438,w_780,c_fill)
+
+• Video 0:48
+
+RICARDO ARDUENGO/AFP/AFP via Getty Images
+
+
+
+](https://edition.cnn.com/2025/07/13/entertainment/video/bad-bunny-puerto-rico-residency-starts-fans-react-digvid)[
+
+Video Fans react to residency of one of the world’s biggest music stars 0:48
+
+
+
+](https://edition.cnn.com/2025/07/13/entertainment/video/bad-bunny-puerto-rico-residency-starts-fans-react-digvid)
+
+[
+
+![Viewers at a "Love Island USA" watch party at the Malt House, a bar in the Greenwich Village section of New York, July 1, 2025. The reality-TV show draws viewers in with steamy drama and over-the-top challenges, but what's more surprising is how it's bringing people together. (Lanna Apisukh/The New York Times)](https://media.cnn.com/api/v1/images/stellar/prod/h-16358556.jpg?c=16x9&q=h_144,w_256,c_fill)
+
+Lanna Apisukh/The New York Times/Redux
+
+
+
+](https://edition.cnn.com/2025/07/13/entertainment/love-island-usa-watch-party-resurgence)[
+
+Captivatingly messy season of ‘Love Island USA’ spurs a watch party resurgence
+
+
+
+](https://edition.cnn.com/2025/07/13/entertainment/love-island-usa-watch-party-resurgence)
+
+[
+
+![Lionel Messi celebrates after scoring his first goal on Saturday.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224835283.jpg?c=16x9&q=h_144,w_256,c_fill)
+
+Leonardo Fernandez/Getty Images
+
+
+
+](https://edition.cnn.com/2025/07/13/sport/lionel-messi-mls-record-breaking-streak-spt)[
+
+Lionel Messi extends MLS record-breaking streak
+
+
+
+](https://edition.cnn.com/2025/07/13/sport/lionel-messi-mls-record-breaking-streak-spt)
 
 [
 
@@ -950,4 +1003,3 @@ Wildfires sweep through forests in drought-hit Syrian coast in major test for ne
 
 
 ](https://edition.cnn.com/2025/07/06/middleeast/wildfires-syria-coast-major-test-for-new-government-intl)
-
